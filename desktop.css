@@ -96,7 +96,7 @@
         }
     }
 
-    :not(:has(div.[class*='page__'] > div.chat_f75fb0)) div.[class*='base_'] > div.bar_c38106 {
+    :not(:has(div[class*='page__'] > div.chat_f75fb0)) div[class*='base_'] > div.bar_c38106 {
         right: 0 !important;
     }
 
